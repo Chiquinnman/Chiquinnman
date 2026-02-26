@@ -1,7 +1,5 @@
 <!-- 타이틀 -->
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1334825867284582410/1476399977948254400/Boombox.png?ex=69a0fc20&is=699faaa0&hm=f8280be4073d2d8b3f699f4c6504e8aaf1d1e358b8e48d8b82ba69da66475982" width="500"/>
-</div>
   <h3>🎮 Game Systems & Scripting Developer</h3>
   <p>
     Crafting gameplay mechanics with C++, Unreal Engine, and Lua.<br>
