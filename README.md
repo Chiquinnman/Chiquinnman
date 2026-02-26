@@ -20,8 +20,9 @@
 <!-- Studying -->
 <h3 align="center">📚 Currently Learning 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Game%20AI-6A0DAD.svg?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/Multiplayer%20Systems-FF6F00.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/Game%20Designer-FF4B4B?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/Lua%20Scripting-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
 </div>
 
 <br>
