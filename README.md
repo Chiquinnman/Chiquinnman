@@ -1,27 +1,35 @@
-<h1 align="center">print("Hello people")</h1>
-<h3 align="center">I <3 chicken so mush:D</h3>
+<!-- 타이틀 -->
+<div align="center">
+  <h1>print("Hello people")</h1>
+  <h3>I <3 chicken so mush :D</h3>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.gg/6Msen6FHgm" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg"
-         alt="discord"
-         width="40"
-         height="40"/>
-  </a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
+<!-- Tech Stack -->
+<h3 align="center">🎮 Game Dev Stack 🎮</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Roblox-000000.svg?style=for-the-badge&logo=roblox&logoColor=white" />&nbsp
+</div>
 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a> 
+<br>
 
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> 
-  </a> 
-</p>
+<!-- Studying -->
+<h3 align="center">📚 Currently Learning 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Game%20AI-6A0DAD.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/Multiplayer%20Systems-FF6F00.svg?style=for-the-badge" />&nbsp
+</div>
+
+<br>
+
+<!-- Tools -->
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+</div>
