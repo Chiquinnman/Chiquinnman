@@ -1,5 +1,9 @@
 <!-- 타이틀 -->
 <div align="center">
+  <!-- 배너 -->
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1334825867284582410/1476400452886335638/5b7cdded5bd13e0d.png?ex=69a0fc92&is=699fab12&hm=f86153cf9bdd1286f9660d16142a98a68b15564adb22ce60a5a47f6e7bdcdfee" width="600"/>
+</div>
   <h3>🎮 Game Systems & Scripting Developer</h3>
   <p>
     Crafting gameplay mechanics with C++, Unreal Engine, and Lua.<br>
