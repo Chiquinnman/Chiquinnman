@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Roblox-000000.svg?style=for-the-badge&logo=roblox&logoColor=white" />&nbsp
 </div>
 
 <br>
