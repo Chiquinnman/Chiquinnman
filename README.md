@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/6Msen6FHgm" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg"
          alt="discord"
          width="40"
          height="40"/>
