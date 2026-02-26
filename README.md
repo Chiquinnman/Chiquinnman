@@ -1,13 +1,9 @@
 <!-- 타이틀 -->
 <div align="center">
-<br>
-
-<div align="center">
-  <h3>🚀 Aspiring Game Developer</h3>
+  <h3>🎮 Game Systems & Scripting Developer</h3>
   <p>
-    I design systems, build mechanics, and script interactive worlds.<br>
-    Focused on Unreal Engine & Lua development.<br>
-    Turning ideas into playable experiences.
+    Crafting gameplay mechanics with C++, Unreal Engine, and Lua.<br>
+    Passionate about system design and interactive world building.
   </p>
 </div>
 
