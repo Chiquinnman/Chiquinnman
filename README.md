@@ -30,7 +30,14 @@
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Roblox%20Studio-000000.svg?style=for-the-badge&logo=roblox&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
 </div>
