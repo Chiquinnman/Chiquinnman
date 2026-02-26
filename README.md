@@ -1,7 +1,14 @@
 <!-- 타이틀 -->
 <div align="center">
-  <h1>print("Hello people")</h1>
-  <h3>I <3 chicken so mush :D</h3>
+<br>
+
+<div align="center">
+  <h3>🚀 Aspiring Game Developer</h3>
+  <p>
+    I design systems, build mechanics, and script interactive worlds.<br>
+    Focused on Unreal Engine & Lua development.<br>
+    Turning ideas into playable experiences.
+  </p>
 </div>
 
 <br>
