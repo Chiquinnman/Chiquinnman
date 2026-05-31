@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/Z9hMcgZ/8-FF07279-A50-A-4024-A657-849-B6-C3-CA2-DB.png" width="600"/>
+  <img src="https://camo.githubusercontent.com/306a208dfe6309aade321c59cdd428deb487d29bb9aa7aa208de5391c4ea99f6/68747470733a2f2f692e6962622e636f2f5a39684d63675a2f382d464630373237392d4135302d412d343032342d413635372d3834392d42362d43332d4341322d44422e706e67" width="600"/>
 
   <h3>🎮 Game Systems & Scripting Developer</h3>
 
