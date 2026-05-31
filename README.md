@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1350443450532626563/1510530380015341680/8FF07279-A50A-4024-A657-849B6C3CA2DB.png" width="600"/>
+  <img src="https://ibb.co/V6vqMCK" width="600"/>
 
   <h3>🎮 Game Systems & Scripting Developer</h3>
 
