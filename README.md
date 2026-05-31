@@ -2,7 +2,7 @@
 <div align="center">
   <!-- 배너 -->
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1334825867284582410/1476400452886335638/5b7cdded5bd13e0d.png?ex=69a0fc92&is=699fab12&hm=f86153cf9bdd1286f9660d16142a98a68b15564adb22ce60a5a47f6e7bdcdfee" width="600"/>
+  <img src="https://cdn.discordapp.com/attachments/1350443450532626563/1510530380015341680/8FF07279-A50A-4024-A657-849B6C3CA2DB.png"/>
 </div>
   <h3>🎮 Game Systems & Scripting Developer</h3>
   <p>
