@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/V6vqMCK" width="600"/>
+  <img src="https://i.ibb.co/Z9hMcgZ/8-FF07279-A50-A-4024-A657-849-B6-C3-CA2-DB.png" width="600"/>
 
   <h3>🎮 Game Systems & Scripting Developer</h3>
 
