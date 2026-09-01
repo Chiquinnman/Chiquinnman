@@ -27,7 +27,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Game%20Designer-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lua%20Scripting-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
