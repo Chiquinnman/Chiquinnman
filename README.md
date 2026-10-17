@@ -1,9 +1,9 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Game%20Systems%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20%E2%80%A2%20C%23%20%E2%80%A2%20Unity%20%E2%80%A2%20Lua&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Game%20Systems%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lua%20%E2%80%A2%20Roblox%20Studio%20%E2%80%A2%20Unity&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://camo.githubusercontent.com/306a208dfe6309aade321c59cdd428deb487d29bb9aa7aa208de5391c4ea99f6/68747470733a2f2f692e6962622e636f2f5a39684d63675a2f382d464630373237392d4135302d412d343032342d413635372d3834392d42362d43332d4341322d44422e706e67" width="560"/>
+<img src="https://i.ibb.co/Z9hMcgZ/8-FF07279-A50-A-4024-A657-849-B6-C3-CA2-DB.png" width="560"/>
 
 <br/>
 
@@ -22,20 +22,19 @@
 <!-- ==================== ABOUT ==================== -->
 ## 👾 About Me
 
-```csharp
-public class GameDeveloper : MonoBehaviour
-{
-    string role      = "Game Systems & Scripting Developer";
-    string[] engines = { "Unity", "Roblox Studio", "Unreal Engine (learning)" };
-    string[] code    = { "C#", "Lua", "C++" };
-    string passion   = "System design & interactive world building";
-
-    void Update()
-    {
-        LearnSomethingNew();
-        BuildCoolGames();
-    }
+```lua
+local GameDeveloper = {
+    role     = "Game Systems & Scripting Developer",
+    mainTool = "Roblox Studio",
+    using    = { "Lua", "Unity" },
+    learning = { "C#", "C++", "Unreal Engine" },
+    passion  = "System design & interactive world building",
 }
+
+game:GetService("RunService").Heartbeat:Connect(function()
+    GameDeveloper:BuildCoolGames()
+    GameDeveloper:LearnSomethingNew()
+end)
 ```
 
 <br/>
@@ -47,20 +46,16 @@ public class GameDeveloper : MonoBehaviour
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=unity" width="56" height="56" alt="Unity"/>
-      <br/><b>Unity</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cs" width="56" height="56" alt="C#"/>
-      <br/><b>C#</b>
+      <img src="https://cdn.simpleicons.org/robloxstudio/00A2FF" width="56" height="56" alt="Roblox Studio"/>
+      <br/><b>Roblox Studio</b>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=lua" width="56" height="56" alt="Lua"/>
       <br/><b>Lua</b>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/robloxstudio/00A2FF" width="56" height="56" alt="Roblox Studio"/>
-      <br/><b>Roblox Studio</b>
+      <img src="https://skillicons.dev/icons?i=unity" width="56" height="56" alt="Unity"/>
+      <br/><b>Unity</b>
     </td>
   </tr>
 </table>
@@ -75,12 +70,12 @@ public class GameDeveloper : MonoBehaviour
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cpp" width="56" height="56" alt="C++"/>
-      <br/><b>C++</b>
-    </td>
-    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=cs" width="56" height="56" alt="C#"/>
       <br/><b>C#</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cpp" width="56" height="56" alt="C++"/>
+      <br/><b>C++</b>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=unreal" width="56" height="56" alt="Unreal Engine"/>
@@ -103,6 +98,10 @@ public class GameDeveloper : MonoBehaviour
 <table>
   <tr>
     <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/robloxstudio/00A2FF" width="56" height="56" alt="Roblox Studio"/>
+      <br/><b>Roblox Studio</b>
+    </td>
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=visualstudio" width="56" height="56" alt="Visual Studio"/>
       <br/><b>Visual Studio</b>
     </td>
@@ -113,28 +112,6 @@ public class GameDeveloper : MonoBehaviour
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=github" width="56" height="56" alt="GitHub"/>
       <br/><b>GitHub</b>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
-<!-- ==================== PROJECTS ==================== -->
-## 🕹 Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=unity,cs" height="40"/>
-      <h3><a href="https://github.com/Chiquinnman/Unity.Virus-Purge">🦠 Virus Purge</a></h3>
-      <p>Unity FPS game — clear out the viruses!</p>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=lua" height="40"/>
-      <h3>🏠 우리의 빌라 (Our Villa)</h3>
-      <p>Roblox game built in Roblox Studio</p>
     </td>
   </tr>
 </table>
